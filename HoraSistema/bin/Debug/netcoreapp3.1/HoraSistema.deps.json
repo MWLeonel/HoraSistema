@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HoraSistema/1.0.0": {
+        "runtime": {
+          "HoraSistema.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HoraSistema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

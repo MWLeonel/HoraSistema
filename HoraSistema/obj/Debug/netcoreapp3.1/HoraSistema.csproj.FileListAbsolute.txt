@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\bin\Debug\netcoreapp3.1\HoraSistema.exe
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\bin\Debug\netcoreapp3.1\HoraSistema.deps.json
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\bin\Debug\netcoreapp3.1\HoraSistema.runtimeconfig.json
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\bin\Debug\netcoreapp3.1\HoraSistema.runtimeconfig.dev.json
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\bin\Debug\netcoreapp3.1\HoraSistema.dll
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\bin\Debug\netcoreapp3.1\HoraSistema.pdb
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\obj\Debug\netcoreapp3.1\HoraSistema.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\obj\Debug\netcoreapp3.1\HoraSistema.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\obj\Debug\netcoreapp3.1\HoraSistema.AssemblyInfo.cs
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\obj\Debug\netcoreapp3.1\HoraSistema.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\obj\Debug\netcoreapp3.1\HoraSistema.dll
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\obj\Debug\netcoreapp3.1\HoraSistema.pdb
+C:\Users\Max\Desktop\HoraSistema\HoraSistema\obj\Debug\netcoreapp3.1\HoraSistema.genruntimeconfig.cache
